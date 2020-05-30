@@ -1,0 +1,2 @@
+Problem statement
+    A restaurants success and failure depends on variety of factors. One of those many factors is its location. The location a restaurant is as important as its quality and taste, besides location of a restaurant is an one-off factor. So it's important that we find a optimal location to run a restaurant. As a data scientist, we are required to properly analyze the location of various neighborhoods in the city and find a proper location to open a restaurant.
